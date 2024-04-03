@@ -28,6 +28,10 @@ nav {
     text-align: center;
 }
 
+a {
+    color: #fff;
+}
+
 main {
     padding-top: 20px;
 }
